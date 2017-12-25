@@ -15,6 +15,12 @@ Can be easily installed using **pip**:
 pip install carveme
 ```
 
+### Instalation from github (latest development branch)
+
+```
+pip install git+https://github.com/cdanielmachado/carveme.git@master
+```
+
 Additionally, you must install diamond and CPLEX (please check the documentation for details). 
 
 ### Credits and License
